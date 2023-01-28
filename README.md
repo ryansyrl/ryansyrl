@@ -4,5 +4,4 @@ Since then I pushed **5241** commits, opened **8** issues, submitted **392** pul
 
 Most used languages across my projects:
 
-
-<p align="right"><sub>Generated using <a href="https://github.com/marketplace/actions/profile-readme-stats">teoxoy/profile-readme-stats</a></sub></p>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryansyrl&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
